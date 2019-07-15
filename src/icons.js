@@ -35,7 +35,8 @@ const EyeO = props => (
 )
 
 const CloseSquareO = props => (
-  return true
+  <div>
+  </div>
 )
 
 export { PlusSquareO, MinusSquareO, CloseSquareO, EyeO }
